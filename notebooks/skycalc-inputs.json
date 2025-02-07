@@ -1,0 +1,1 @@
+{"incl_moon": "N", "incl_loweratm": "N", "incl_upperatm": "N", "incl_airglow": "N", "incl_starlight": "N", "pwv": 20.0, "wmin": 2200, "wmax": 2400, "wgrid_mode": "fixed_spectral_resolution", "wres": 1000000}
